@@ -12,7 +12,7 @@ setup(
     description='langchain util',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/jaycando/langchain_jay',
+    url='https://github.com/jaycando/langchain',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
