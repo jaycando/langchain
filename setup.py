@@ -8,7 +8,7 @@ setup(
         # 필요한 패키지 목록
     ],
     author='Jae Yeob Kim',
-    author_email='codejay2023@gmailcom',
+    author_email='codejay2023@gmail.com',
     description='langchain util',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
